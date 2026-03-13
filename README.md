@@ -58,5 +58,5 @@ Sou estudante do **1º ano de Análise e Desenvolvimento de Sistemas (ADS)** na 
 
 <div align="center">
   <h3>Sempre em busca de aprender mais! 👨‍💻🚀</h3>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Programmer GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWUwajVnYWd4aG4zY241N3o5M2JuenhwbTc3NW9wdXFlMzhnMXk5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/owjkiwz58Lmes/giphy.gif" width="400" alt="Programmer GIF">
 </div>
