@@ -48,6 +48,6 @@ Sou estudante do **1º ano de Análise e Desenvolvimento de Sistemas (ADS)** na 
 *(Lembre-se de alterar "SEU_USUARIO" na URL da imagem abaixo para o seu nome de usuário real)*
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael-adrianosilva&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-adrianosilva&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </p>
