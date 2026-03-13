@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Sistemas+na+Facchini;Estudante+de+ADS+na+UNIFEV;Apaixonado+por+Tecnologia+e+Web;Full+Stack+%7C+HTML+%7C+PHP+%7C+JS" alt="Typing SVG" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafael--adriano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-adriano-302286209/)
+[![https://www.linkedin.com/in/rafael-adrianosilva/](https://img.shields.io/badge/LinkedIn-rafael--adriano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-adrianosilva)
 [![GitHub followers](https://img.shields.io/github/followers/rafael-adrianosilva?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafael-adrianosilva)
 
 </div>
