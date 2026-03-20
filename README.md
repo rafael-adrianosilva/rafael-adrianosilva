@@ -1,35 +1,37 @@
 <div align="center">
 
-# Olá! 👋 Eu sou o Rafael Adriano
+# Hi there! 👋 I'm Rafael Adriano
 
 <a href="https://github.com/rafael-adrianosilva">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Sistemas+na+Facchini;Estudante+de+ADS+na+UNIFEV;Apaixonado+por+Tecnologia+e+Web;Full+Stack+%7C+HTML+%7C+PHP+%7C+JS" alt="Typing SVG" />
 </a>
 
-[![https://www.linkedin.com/in/rafael-adrianosilva/](https://img.shields.io/badge/LinkedIn-rafael--adriano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-adrianosilva)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-adriano-302286209/)
 [![GitHub followers](https://img.shields.io/github/followers/rafael-adrianosilva?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafael-adrianosilva)
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
 Sou **Desenvolvedor de Sistemas** na Facchini (Votuporanga - SP) e estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UNIFEV. Tenho experiência prática com desenvolvimento web full stack, banco de dados e integrações de sistemas. Apaixonado por tecnologia, estou sempre buscando aprender novas ferramentas e resolver problemas reais com código.
 
-- 🏢 **Atualmente:** Desenvolvedor de Sistemas na **Facchini** (Jan/2025 – presente)
-- 🎓 **Formação:** Cursando ADS na **UNIFEV** – Votuporanga, SP
-- 🛠️ **Foco:** Desenvolvimento Web (Front-end & Back-end), APIs, Banco de Dados
+- 🏢 **Current Role:** Desenvolvedor de Sistemas na **Facchini**
+- 🎓 **Education:** Cursando ADS na **UNIFEV** (Votuporanga, SP)
+- 🛠️ **Focus:** Desenvolvimento Web (Front-end & Back-end), APIs, Banco de Dados
 - ☁️ **Cloud:** Fundamentos em AWS, Azure e Google Cloud
-- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/rafael-adriano-302286209/) | rafael.adriano2801@gmail.com
-- 📍 **Localização:** Votuporanga, São Paulo, Brasil
+- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/rafael-adriano-302286209/) | rafael.adriano2801@gmail.com
+- 📍 **Location:** Votuporanga, São Paulo, Brasil
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
 ### 🏭 Facchini — Desenvolvedor de Sistemas
-**Jan/2025 – Presente** · Votuporanga, SP
+**Jan/2025 – Present** · Votuporanga, SP
 
 > Desenvolvimento e manutenção de sistemas internos, aplicações web e integrações utilizando tecnologias como HTML, CSS, JavaScript, PHP e banco de dados MySQL. Atuação em todo o ciclo de desenvolvimento, desde a análise de requisitos até a entrega.
 
@@ -42,11 +44,11 @@ Sou **Desenvolvedor de Sistemas** na Facchini (Votuporanga - SP) e estudante de 
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Desenvolvimento Web
+### 💻 Web Development
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -58,7 +60,7 @@ Sou **Desenvolvedor de Sistemas** na Facchini (Votuporanga - SP) e estudante de 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-### 🗄️ Banco de Dados
+### 🗄️ Database
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
 ### ☁️ Cloud & Deploy
@@ -67,7 +69,7 @@ Sou **Desenvolvedor de Sistemas** na Facchini (Votuporanga - SP) e estudante de 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 
-### 🧰 Ferramentas
+### 🧰 Tools
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -76,33 +78,35 @@ Sou **Desenvolvedor de Sistemas** na Facchini (Votuporanga - SP) e estudante de 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael-adrianosilva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-adrianosilva&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael-adrianosilva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="Estatísticas do Rafael" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-adrianosilva&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Linguagens mais usadas" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-adrianosilva&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-adrianosilva&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🗂️ Projetos em Destaque
+## 🗂️ Featured Projects
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Tech Stack |
 |---|---|---|
-| [ParaTube](https://github.com/rafael-adrianosilva/ParaTube) | Aplicação web de catálogo/streaming | JavaScript |
-| [movie-catalog](https://github.com/rafael-adrianosilva/movie-catalog) | Catálogo de filmes com API | JavaScript |
-| [GremioColorado](https://github.com/rafael-adrianosilva/GremioColorado) | Site de time de futebol | HTML/CSS |
-| [senaibooks](https://github.com/rafael-adrianosilva/senaibooks) | Sistema de livros | JavaScript |
-| [formulario_AcaiJins](https://github.com/rafael-adrianosilva/formulario_AcaiJins) | Formulário para negócio local | HTML/CSS |
-| [cadastro_pessoas](https://github.com/rafael-adrianosilva/cadastro_pessoas) | CRUD de pessoas | PHP/MySQL |
+| 🍿 **[ParaTube](https://github.com/rafael-adrianosilva/ParaTube)** | Aplicação web de catálogo/streaming | JavaScript |
+| 🎬 **[movie-catalog](https://github.com/rafael-adrianosilva/movie-catalog)** | Catálogo de filmes integrado com API | JavaScript |
+| ⚽ **[GremioColorado](https://github.com/rafael-adrianosilva/GremioColorado)** | Landing page de time de futebol | HTML / CSS |
+| 📚 **[senaibooks](https://github.com/rafael-adrianosilva/senaibooks)** | Sistema de gerenciamento de livros | JavaScript |
+| 📝 **[formulario_AcaiJins](https://github.com/rafael-adrianosilva/formulario_AcaiJins)** | Formulário customizado para negócio local | HTML / CSS |
+| 👥 **[cadastro_pessoas](https://github.com/rafael-adrianosilva/cadastro_pessoas)** | Sistema CRUD completo de pessoas | PHP / MySQL |
 
 ---
 
 <div align="center">
-  <h3>Sempre aprendendo, sempre evoluindo! 👨‍💻🚀</h3>
+  <h3>Always learning, always evolving! 👨‍💻🚀</h3>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWUwajVnYWd4aG4zY241N3o5M2JuenhwbTc3NW9wdXFlMzhnMXk5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/owjkiwz58Lmes/giphy.gif" width="380" alt="Programmer GIF">
 </div>
